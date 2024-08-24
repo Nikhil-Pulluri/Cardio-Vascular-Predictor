@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <NavBar/>
-      <Outlet/>
+      <div style={{marginTop: '77px'}}><Outlet/></div>
     </>
   )
 }
